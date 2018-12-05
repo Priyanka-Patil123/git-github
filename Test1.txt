@@ -1,1 +1,4 @@
-This is another file for making some changes
+a = 10
+b = 20
+c = 30
+print(a+b+c)
